@@ -1,15 +1,15 @@
-Frogman Magmaborn - Version 1.0.2.0 (08/09/2023)
+Frogman Magmaborn - Version 1.1.0.0 (XX/XX/2026)
 
 Changelog:
 
 * - Changes inspired by your feedback
 
-Improvements:
-	*+Level 9 is now slightly harder, and a certain mechanic is better explained.
-	*+Modified a mechanic in the endgame.
+New content & features:
+	 +Added randomizer mode! Unlocked upon finishing the game once.
+	*+Added boss revival mode! Unlocked upon finishing the game once.
 	 
 Bug fixes:
-	*+Fixed a freeze when using the Life Torment Power and battle animations are on.
-	 +Fixed some conversation bugs.
-	 +Fixed a minor music bug in level 9.
-	 +Fixed a bug when reaching the endgame with too many units.
+	*+Fixed multiple conversation bugs.
+	*+Modded unit map sprites can now have more/less than three frames.
+	 +Updated the Unity version to 2020.3.49f in order to fix a security vulnerability.
+	 +Updated a name in the credits.

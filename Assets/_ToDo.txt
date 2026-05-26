@@ -169,4 +169,4 @@ V-Fix displaying push/pull when can't push/pull to the target pos
 For next release:
 V-Add stats explanation
 V-Add transition between game and mid-battle screens like Status and Battle
-V-Change Gur Ladizhinsky to Disc-O-Key & add credits
+V-Change Fey Ladizhinskaya to Disc-O-Key & add credits
